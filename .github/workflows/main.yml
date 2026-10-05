@@ -23,6 +23,6 @@ jobs:
 
       - uses: actions/upload-artifact@v7
         with:
-          name: drv
+          name: r
           path: |
-            Sandboxie/core/drv/Bin/*
+            Sandboxie/SandboxieBin/x64/SbieRelease/*
