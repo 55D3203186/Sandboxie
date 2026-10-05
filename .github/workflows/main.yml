@@ -25,4 +25,4 @@ jobs:
         with:
           name: r
           path: |
-            Sandboxie/SandboxieBin/x64/SbieRelease/*
+            Sandboxie/Bin/x64/SbieRelease/*
